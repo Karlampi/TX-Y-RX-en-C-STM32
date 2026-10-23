@@ -1,2 +1,4 @@
-# TX-Y-RX-en-C-STM32
-//Karla Yammilet Martinez Pichal //Galilea Yamile Sanchez Andrade //José Emmanuel Castro Velázquez
+Karla Yammilet Martinez Pichal
+José Emmanuel Castro Velázquez
+Juan Carlos Hernandez Aguilar
+Diego Alan Gonzalez Romero
